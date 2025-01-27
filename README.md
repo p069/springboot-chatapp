@@ -9,13 +9,16 @@ User Presence: Users are notified when new users join the chatroom, allowing the
 Private Messages: Users have the ability to send private messages to specific individuals.
 Multimedia Transfer: The application supports the transfer of multimedia files, such as photos and videos.
 Logout: Users can log out from the application, and their username will be removed from the user list displayed to other participants.
-Tech Stack
+
+# Tech Stack
 The application incorporates the following technologies:
 
 Spring Boot: A Java-based framework used for building the backend server and handling business logic.
 SockJS: A WebSocket emulation library that enables real-time communication between the server and clients.
 React: A JavaScript library used for building the user interface and handling frontend functionality.
-Setup Instructions
+
+
+# Setup Instructions
 To run the chat application locally, follow these steps:
 
 
