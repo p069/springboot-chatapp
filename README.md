@@ -24,9 +24,9 @@ To run the chat application locally, follow these steps:
 
 Navigate to the project directory: cd chatroom-backend
 Set up the backend server:
-Install the necessary dependencies: mvn clean install
-Start the Spring Boot server: mvn spring-boot:run
-Set up the frontend:
-Install the necessary dependencies: cd chatroom-ui && npm install
-Start the React development server: npm run dev
+1.Install the necessary dependencies: mvn clean install
+2. Start the Spring Boot server: mvn spring-boot:run
+3. Set up the frontend:
+4. Install the necessary dependencies: cd chatroom-ui && npm install
+5. Start the React development server: npm run dev
 Open your web browser and visit http://localhost:5173 to access the chat application
